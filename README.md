@@ -1,4 +1,4 @@
-# B3Sem1
+# B3Sem2
 
 Repository of resources for Semester 2 of 3rd Year students at Indian Statistical Institute, Bangalore.
 
