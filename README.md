@@ -7,8 +7,8 @@ Repository of resources for Semester 2 of 3rd Year students at Indian Statistica
 - [X] Analysis IV
 - [X] Computer Science III
 - [X] Differential Equations
-- [ ] Differential Geometry II
-- [ ] Intro to Algebraic Geometry
+- [X] Differential Geometry II
+- [X] Intro to Algebraic Geometry
 - [X] Intro to Differential Topology
 - [X] Physics IV
 
@@ -20,7 +20,7 @@ Repository of resources for Semester 2 of 3rd Year students at Indian Statistica
   - Linux (comes pre-installed): If you don't know how to, FUCK YOU!
 2. Clone the repo
 ```
-git clone https://github.com/arghyadipchak/B3Sem1.git
+git clone https://github.com/arghyadipchak/B3Sem2.git
 ```
 3. Update the repo later
 ```
